@@ -15,7 +15,6 @@ int main(){
         }
     }
     
-    cout << n1;
 
     while(n2 < 0 || n2 > 10){
         cout << "Digite a segunda nota do aluno: "; cin >> n2;
@@ -27,15 +26,15 @@ int main(){
     float media = (n1 + n2)/2;
 
     if(media >= 7){
-        cout << "O aluno teve nota sufuciente, parabéns!";
+        cout << "O aluno teve nota sufuciente, parabéns! A média foi: " << media << endl;
     }
 
     if(media >= 5 && media < 7){
-        cout << "O aluno ficará de recuperação.";
+        cout << "O aluno ficará de recuperação.A média foi: " << media << endl;
     }
 
     if(media < 5){
-        cout << "O aluno está reprovado.";
+        cout << "O aluno está reprovado.A média foi: " << media << endl;
     }
 
 
