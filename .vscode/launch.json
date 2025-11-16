@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/SubjetivaNP2",
-      "program": "/workspaces/SubjetivaNP2/build/Debug/outDebug",
+      "cwd": "/workspaces/SubjetivaNP2/trabalho02",
+      "program": "/workspaces/SubjetivaNP2/trabalho02/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
